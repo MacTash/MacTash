@@ -1,4 +1,41 @@
-## Hi there 👋
+## Hi, I am MacTash 👋
+
+🔐 Future AI Security Engineer
+🧪 Focused on making better detection methodologies for emerging AI threats
+🎯 Building tools that protect and strengthen AI systems in the real world
+
+## What I work on
+
+🚩 AI Red Teaming
+🛡️ LLM Threat Detection
+🧠 Prompt Injection and Jailbreak Research
+📊 Analyst focused feature design for security tooling
+
+I love creating security tools that actually do something, not just sit in a folder.
+
+## What drives me
+
+⚡ Adaptive mindset
+📚 Constant upskilling
+🛠️ If I want something to exist, I build it
+
+## Currently building
+
+🛰️ AI Model Security Scanner
+Repository coming public soon, stay tuned for version one.
+I am designing it to detect and visualize risks in large language model behavior.
+
+## When I am not breaking models
+
+🎮 Gaming
+🐞 Debugging
+Repeating those two until something works
+
+## Connect with me
+
+LinkedIn: [Add your profile link here]
+Portfolio: [Add your portfolio link here]
+Reach out if you want to collaborate or test attack ideas
 
 <!--
 **MacTash/MacTash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
