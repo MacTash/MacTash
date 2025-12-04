@@ -25,6 +25,10 @@ I love creating security tools that actually do something, not just sit in a fol
 Repository coming public soon, stay tuned for version one.
 I am designing it to detect and visualize risks in large language model behavior.
 
+Web-Cross
+CLI based web vulnerability attack with massive payload library.
+Designed to assess vulnerabilities, not attack and provide a detailed and professional remediation guide. 
+
 ## When I am not breaking models
 
 🎮 Gaming
