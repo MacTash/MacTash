@@ -36,9 +36,6 @@ Designed to assess vulnerabilities, not attack and provide a detailed and profes
 Repeating those two until something works
 
 ## Connect with me
-
-LinkedIn: [Add your profile link here]
-Portfolio: [Add your portfolio link here]
 Reach out if you want to collaborate or test attack ideas
 
 <!--
