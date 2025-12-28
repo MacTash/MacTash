@@ -1,4 +1,5 @@
-<img width="2816" height="1536" alt="Gemini_Generated_Image_i5xj0yi5xj0yi5xj" src="https://github.com/user-attachments/assets/a42e0ce5-8053-4c8c-bbc8-8abbb8dd6562" />
+<img width="2816" height="1536" alt="ominous-eye" src="https://github.com/user-attachments/assets/f2207940-ac92-430f-b550-24c54827f620" />
+
 ## Hi, I am MacTash 👋
 
 🔐 Future AI Security Engineer
