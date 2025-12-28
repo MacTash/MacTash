@@ -41,11 +41,6 @@ Repeating those two until something works
 ## Connect with me
 Reach out if you want to collaborate or test attack ideas
 
-<!--
-**MacTash/MacTash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on : 
 - 1. Nodeline - Detective board but virtual
 - 2. Web-cross:- Web vulnerability finder and remediation tool
@@ -56,6 +51,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with : Nothing yet
 - 💬 Ask me about : Why I love hoarding information
 - 📫 How to reach me: find the contact details on my Github landing page
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I am obsessed with geo-politics
