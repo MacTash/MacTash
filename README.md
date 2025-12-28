@@ -1,7 +1,9 @@
+<img width="2816" height="1536" alt="Gemini_Generated_Image_i5xj0yi5xj0yi5xj" src="https://github.com/user-attachments/assets/a42e0ce5-8053-4c8c-bbc8-8abbb8dd6562" />
 ## Hi, I am MacTash 👋
 
 🔐 Future AI Security Engineer
-🧪 Focused on making better detection methodologies for emerging AI threats
+🧪 Focused on making better detection methodologies for emerging AI threats!
+
 🎯 Building tools that protect and strengthen AI systems in the real world
 
 ## What I work on
