@@ -2,7 +2,7 @@
 ## Hi, I am MacTash 👋
 
 🔐 Future AI Security Engineer
-🧪 Focused on making better detection methodologies for emerging AI threats!
+🧪 Focused on learning AI/LLM Security, Cybersecurity amongst other things!
 
 🎯 Building tools that protect and strengthen AI systems in the real world
 
@@ -12,6 +12,7 @@
 🛡️ LLM Threat Detection
 🧠 Prompt Injection and Jailbreak Research
 📊 Analyst focused feature design for security tooling
+🌏 OSINT work and investigations (when I am bored)
 
 I love creating security tools that actually do something, not just sit in a folder.
 
@@ -45,12 +46,16 @@ Reach out if you want to collaborate or test attack ideas
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on : 
+- 1. Nodeline - Detective board but virtual
+- 2. Web-cross:- Web vulnerability finder and remediation tool
+- 3. Afterimage:- deep analysis image scanner to figure out if an image is AI or not
+- AND MANY MORE
+- 🌱 I’m currently learning : AI/LLM Red Teaming techniques, Python, C & C++, Cybersecurity & OSINT, Cryptography, Malware analysis
+- 👯 I’m looking to collaborate on : Research regarding AI Security
+- 🤔 I’m looking for help with : Nothing yet
+- 💬 Ask me about : Why I love hoarding information
+- 📫 How to reach me: find the contact details on my Github landing page
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
