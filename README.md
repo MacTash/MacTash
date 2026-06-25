@@ -1,6 +1,6 @@
 <img width="2816" height="1536" alt="ominous-eye" src="https://github.com/user-attachments/assets/f2207940-ac92-430f-b550-24c54827f620" />
 
-## Hi, I am MacTash 👋
+## Hi, I am Mayukh Dey or Mac for short 👋
 
 🔐 Future AI Security Engineer
 🧪 Focused on learning AI/LLM Security, Cybersecurity amongst other things!
