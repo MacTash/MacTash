@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="banner.gif" width="100%">
+  <img src="banner.gif" width="100%" alt="DeySec Banner">
 </p>
-
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=25&pause=1000&color=FFBF00&background=FFB70000&width=435&lines=%3E+Initializing+profile...;%3E+Loading+interface...;%3E+Playing+a+dangerous+game..." alt="Typing SVG" /></a>
 
