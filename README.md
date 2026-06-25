@@ -9,126 +9,56 @@
 
 # Hi, I'm Mayukh Dey (Mac) 👋
 
-**AI Security Researcher | LLM Red Teaming | AI Model Security | OSINT**
+**AI Security Researcher • LLM Red Teaming • AI Model Security • OSINT**
 
-I build practical security tools for AI systems, with a focus on identifying vulnerabilities before they become real world problems. My interests span AI security, adversarial machine learning, offensive security research, and open source tooling.
-
-Currently exploring model security, prompt injection, jailbreak techniques, vulnerability research, and defensive AI engineering.
-
+I build open source security tools focused on evaluating, attacking, and hardening AI systems. My work spans LLM security, prompt injection, model risk analysis, web security, and OSINT.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Security-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/LLM%20Red%20Teaming-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Linux-grey?style=for-the-badge">
+  <a href="https://deysec.in"><img src="https://img.shields.io/badge/🌐_Website-deysec.in-0A0A0A?style=for-the-badge"></a>
+  <img src="https://img.shields.io/badge/AI_Security-181717?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/LLM_Red_Teaming-B22222?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Prompt_Injection-8B0000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/OSINT-1F6FEB?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 </p>
 
 ---
 
-## What I Build
+## 🚀 Featured Projects
 
-🔐 **AI Red Teaming**
-
-* Adversarial testing for LLMs
-* Jailbreak and prompt injection research
-
-🛡️ **AI Model Security**
-
-* Threat detection
-* Model risk analysis
-* Secure AI deployment workflows
-
-🌐 **Security Tooling**
-
-* Web vulnerability assessment
-* OSINT platforms
-* Investigation and automation tools
-
-📊 **Security Engineering**
-
-* Threat visualization
-* Analyst focused interfaces
-* Defensive security workflows
+| Project           | Description                                                             |
+| ----------------- | ----------------------------------------------------------------------- |
+| **🛰 AI-Eye**     | AI model security scanner for Hugging Face repositories.                |
+| **🌐 Web-Cross**  | CLI web vulnerability assessment and remediation framework.             |
 
 ---
 
-## Featured Projects
+## 🎯 Current Focus
 
-### 🛰️ AI-Eye
-
-AI model security scanner for Hugging Face repositories.
-
-Features include:
-
-* Unsafe serialization detection
-* Embedded executable discovery
-* License compliance analysis
-* Repository risk assessment
-* Security scoring and reporting
+* AI & LLM Security
+* Prompt Injection & Jailbreak Research
+* Malware Analysis
+* Reverse Engineering
+* C & Modern C++
+* Open Source AI Security Tooling
 
 ---
 
-### 🌐 Web-Cross
-
-CLI based web security assessment framework.
-
-Designed for defenders to:
-
-* Discover common web vulnerabilities
-* Analyze attack surface
-* Generate professional remediation reports
-
----
-
-## Current Focus
-
-* AI and LLM Security
-* Prompt Injection Research
-* AI Red Team Operations
-* Model Risk Assessment
-* Python
-* C
-* Malware Analysis 
-* OSINT
-
----
-
-## 🗺️ 2026 Roadmap
-
-- ✅ Build AI-Eye v1
-- 🔄 Publish Web-Cross
-- 🔄 Learn C fundamentals
-- 🔄 Learn Modern C++
-- 🔄 Study Malware Analysis
-- 🔄 Study Reverse Engineering
-- 🔄 Complete AI Red Team portfolio
-- 🎯 Contribute to open source AI security projects
-- 🎯 Publish security research and writeups
-
-## Tech Stack
+## 🛠 Tech Stack
 
 ```text
-Python • TypeScript • JavaScript • React • 
-Flask • Linux • Docker • Git • SQLite
-Ollama • Hugging Face • LangChain
+Python • C • Linux • Prompt Engineering
 ```
 
----
+> **Build tools that solve real security problems.**
 
-## Philosophy
-
-> Build tools that solve real security problems, not portfolio projects.
-
----
-
-## Collaboration
-
-I'm interested in collaborating on:
-
-* AI Security Research
-* LLM Evaluation
-* Open Source Security Tools
-* Red Teaming Projects
-* AI Safety and Model Security
-
-Feel free to reach out if you'd like to collaborate, discuss research, or test new security ideas.
+📬 **Open to collaborating on AI Security, LLM Evaluation, and Open Source Security Research.**
