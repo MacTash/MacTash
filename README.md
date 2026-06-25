@@ -1,55 +1,130 @@
 <img width="2816" height="1536" alt="ominous-eye" src="https://github.com/user-attachments/assets/f2207940-ac92-430f-b550-24c54827f620" />
 
-## Hi, I am Mayukh Dey or Mac for short 👋
+# Hi, I'm Mayukh Dey (Mac) 👋
 
-🔐 Future AI Security Engineer
-🧪 Focused on learning AI/LLM Security, Cybersecurity amongst other things!
+**AI Security Researcher | LLM Red Teaming | AI Model Security | OSINT**
 
-🎯 Building tools that protect and strengthen AI systems in the real world
+I build practical security tools for AI systems, with a focus on identifying vulnerabilities before they become real world problems. My interests span AI security, adversarial machine learning, offensive security research, and open source tooling.
 
-## What I work on
+Currently exploring model security, prompt injection, jailbreak techniques, vulnerability research, and defensive AI engineering.
 
-🚩 AI Red Teaming
-🛡️ LLM Threat Detection
-🧠 Prompt Injection and Jailbreak Research
-📊 Analyst focused feature design for security tooling
-🌏 OSINT work and investigations (when I am bored)
+---
 
-I love creating security tools that actually do something, not just sit in a folder.
+## What I Build
 
-## What drives me
+🔐 **AI Red Teaming**
 
-⚡ Adaptive mindset
-📚 Constant upskilling
-🛠️ If I want something to exist, I build it
+* Adversarial testing for LLMs
+* Jailbreak and prompt injection research
 
-## Currently building
+🛡️ **AI Model Security**
 
-🛰️ AI Model Security Scanner
-Repository coming public soon, stay tuned for version one.
-I am designing it to detect and visualize risks in large language model behavior.
+* Threat detection
+* Model risk analysis
+* Secure AI deployment workflows
 
-Web-Cross
-CLI based web vulnerability attack with massive payload library.
-Designed to assess vulnerabilities, not attack and provide a detailed and professional remediation guide. 
+🌐 **Security Tooling**
 
-## When I am not breaking models
+* Web vulnerability assessment
+* OSINT platforms
+* Investigation and automation tools
 
-🎮 Gaming
-🐞 Debugging
-Repeating those two until something works
+📊 **Security Engineering**
 
-## Connect with me
-Reach out if you want to collaborate or test attack ideas
+* Threat visualization
+* Analyst focused interfaces
+* Defensive security workflows
 
-- 🔭 I’m currently working on : 
-- 1. Nodeline - Detective board but virtual
-- 2. Web-cross:- Web vulnerability finder and remediation tool
-- 3. Afterimage:- deep analysis image scanner to figure out if an image is AI or not
-- AND MANY MORE
-- 🌱 I’m currently learning : AI/LLM Red Teaming techniques, Python, C & C++, Cybersecurity & OSINT, Cryptography, Malware analysis
-- 👯 I’m looking to collaborate on : Research regarding AI Security
-- 🤔 I’m looking for help with : Nothing yet
-- 💬 Ask me about : Why I love hoarding information
-- 📫 How to reach me: find the contact details on my Github landing page
-- ⚡ Fun fact: I am obsessed with geo-politics
+---
+
+## Featured Projects
+
+### 🛰️ AI-Eye
+
+AI model security scanner for Hugging Face repositories.
+
+Features include:
+
+* Unsafe serialization detection
+* Embedded executable discovery
+* License compliance analysis
+* Repository risk assessment
+* Security scoring and reporting
+
+---
+
+### 🌐 Web-Cross
+
+CLI based web security assessment framework.
+
+Designed for defenders to:
+
+* Discover common web vulnerabilities
+* Analyze attack surface
+* Generate professional remediation reports
+
+---
+
+### 🗺️ Nodeline
+
+A virtual investigation board for intelligence analysis, evidence management, and OSINT workflows.
+
+---
+
+### 🖼️ AfterImage
+
+Image forensics platform for distinguishing AI generated and manipulated media using multiple analysis techniques.
+
+---
+
+## Current Focus
+
+* AI and LLM Security
+* Prompt Injection Research
+* AI Red Team Operations
+* Model Risk Assessment
+* Python
+* C
+* Malware Analysis 
+* OSINT
+
+---
+
+## Tech Stack
+
+```text
+Python • TypeScript • JavaScript • React • 
+Flask • Linux • Docker • Git • SQLite
+Ollama • Hugging Face • LangChain
+```
+
+---
+
+## Philosophy
+
+> Build tools that solve real security problems, not portfolio projects.
+
+---
+
+## Collaboration
+
+I'm interested in collaborating on:
+
+* AI Security Research
+* LLM Evaluation
+* Open Source Security Tools
+* Red Teaming Projects
+* AI Safety and Model Security
+
+Feel free to reach out if you'd like to collaborate, discuss research, or test new security ideas.
+
+<p align="center">
+  <img src="banner.gif" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Security-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LLM%20Red%20Teaming-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Linux-grey?style=for-the-badge">
+</p>
