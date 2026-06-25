@@ -1,6 +1,10 @@
 <img width="2816" height="1536" alt="ominous-eye" src="https://github.com/user-attachments/assets/f2207940-ac92-430f-b550-24c54827f620" />
 
+
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=25&pause=1000&color=FFBF00&background=FFB70000&width=435&lines=%3E+Initializing+profile...;%3E+Loading+interface...;%3E+Playing+a+dangerous+game..." alt="Typing SVG" /></a>
+
+
 
 # Hi, I'm Mayukh Dey (Mac) 👋
 
