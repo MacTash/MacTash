@@ -8,6 +8,18 @@ I build practical security tools for AI systems, with a focus on identifying vul
 
 Currently exploring model security, prompt injection, jailbreak techniques, vulnerability research, and defensive AI engineering.
 
+
+<p align="center">
+  <img src="banner.gif" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Security-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LLM%20Red%20Teaming-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Linux-grey?style=for-the-badge">
+</p>
+
 ---
 
 ## What I Build
@@ -117,14 +129,3 @@ I'm interested in collaborating on:
 * AI Safety and Model Security
 
 Feel free to reach out if you'd like to collaborate, discuss research, or test new security ideas.
-
-<p align="center">
-  <img src="banner.gif" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Security-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/LLM%20Red%20Teaming-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Linux-grey?style=for-the-badge">
-</p>
