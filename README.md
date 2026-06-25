@@ -1,4 +1,6 @@
-<img width="2816" height="1536" alt="ominous-eye" src="https://github.com/user-attachments/assets/f2207940-ac92-430f-b550-24c54827f620" />
+<p align="center">
+  <img src="banner.gif" width="100%" alt="DeySec Banner">
+</p>
 
 
 
