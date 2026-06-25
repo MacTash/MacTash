@@ -77,18 +77,6 @@ Designed for defenders to:
 
 ---
 
-### 🗺️ Nodeline
-
-A virtual investigation board for intelligence analysis, evidence management, and OSINT workflows.
-
----
-
-### 🖼️ AfterImage
-
-Image forensics platform for distinguishing AI generated and manipulated media using multiple analysis techniques.
-
----
-
 ## Current Focus
 
 * AI and LLM Security
@@ -101,6 +89,18 @@ Image forensics platform for distinguishing AI generated and manipulated media u
 * OSINT
 
 ---
+
+## 🗺️ 2026 Roadmap
+
+- ✅ Build AI-Eye v1
+- 🔄 Publish Web-Cross
+- 🔄 Learn C fundamentals
+- 🔄 Learn Modern C++
+- 🔄 Study Malware Analysis
+- 🔄 Study Reverse Engineering
+- 🔄 Complete AI Red Team portfolio
+- 🎯 Contribute to open source AI security projects
+- 🎯 Publish security research and writeups
 
 ## Tech Stack
 
