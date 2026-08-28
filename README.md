@@ -16,7 +16,6 @@ I build open source security tools focused on evaluating, attacking, and hardeni
   <a href="https://deysec.in"><img src="https://img.shields.io/badge/🌐_Website-deysec.in-0A0A0A?style=for-the-badge"></a>
   <img src="https://img.shields.io/badge/AI_Security-181717?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/LLM_Red_Teaming-B22222?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Prompt_Injection-8B0000?style=for-the-badge">
   <img src="https://img.shields.io/badge/OSINT-1F6FEB?style=for-the-badge">
 </p>
 
