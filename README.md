@@ -7,120 +7,127 @@
 
 # Hi, I'm Mayukh Dey (Mac)
 
-**AI Security • AI Red Teaming • Malware Analysis • OSINT • Security Research**
+**AI Security · Red Teaming · Malware Analysis · OSINT**
 
-I build security tooling and conduct research around **AI systems, LLM security, malware analysis, reverse engineering, and open source intelligence**.
+I build security tools, investigate interesting systems, and experiment with AI and security research.
 
-My work focuses on understanding how systems fail, developing practical security tooling, and turning research into reproducible workflows.
+My work currently sits around **AI security, LLM red teaming, Android malware analysis, reverse engineering, OSINT, and security tooling**.
 
 <p align="center">
-  <a href="https://deysec.in"><img src="https://img.shields.io/badge/🌐_Website-deysec.in-0A0A0A?style=for-the-badge"></a>
-  <a href="https://github.com/MacTash"><img src="https://img.shields.io/badge/GitHub-MacTash-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://deysec.in">
+    <img src="https://img.shields.io/badge/Portfolio-deysec.in-111111?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://loop.runs-on.dev/">
+    <img src="https://img.shields.io/badge/Research_Lab-loop.runs--on.dev-111111?style=for-the-badge&logo=firefox&logoColor=white">
+  </a>
+  <a href="https://github.com/MacTash">
+    <img src="https://img.shields.io/badge/GitHub-MacTash-111111?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_Security-181717?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AI_Red_Teaming-B22222?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Malware_Analysis-8B0000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/OSINT-1F6FEB?style=for-the-badge">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/AI_Security-2B2B2B?style=flat-square">
+  <img src="https://img.shields.io/badge/Red_Teaming-2B2B2B?style=flat-square">
+  <img src="https://img.shields.io/badge/Malware_Analysis-2B2B2B?style=flat-square">
+  <img src="https://img.shields.io/badge/OSINT-2B2B2B?style=flat-square">
+  <img src="https://img.shields.io/badge/Reverse_Engineering-2B2B2B?style=flat-square">
 </p>
 
 ---
 
-## 🔬 Featured Projects
+## Projects
 
-| Project          | Description                                                                                      |
-| ---------------- | ------------------------------------------------------------------------------------------------ |
-| **🛰 AI-Eye**    | AI model security scanner for evaluating Hugging Face models and repositories.                   |
-| **🕵️ PRMPTKit** | AI red teaming toolkit for prompt injection, jailbreak, and model security testing.              |
-| **🧭 Synscope**  | Multi-INT OSINT fusion workspace focused on structured analysis and heuristic threat assessment. |
-| **🌐 Web-Cross** | AI-assisted web vulnerability assessment and security testing framework.                         |
-| **🗺️ Nodeline** | Local-first visual investigation workspace for OSINT and intelligence workflows.                 |
-| **⚙️ DorkForge** | OSINT query compiler for constructing and organizing advanced search queries.                    |
+A few things I've been building:
 
----
-
-## 🎯 Current Focus
-
-* AI Security & AI Red Teaming
-* LLM Security, Prompt Injection & Jailbreaks
-* AI Model Security & Evaluation
-* Android Malware Analysis
-* Reverse Engineering
-* OSINT & Multi-INT Analysis
-* Web Application Security
-* C & Modern C++
-* Security Tooling & Automation
+| Project          | What it is                                                                             |
+| ---------------- | -------------------------------------------------------------------------------------- |
+| **🛰 AI-Eye**    | AI model security scanner for Hugging Face repositories and models.                    |
+| **🕵️ PRMPTKit** | Toolkit for AI red teaming, prompt injection, jailbreak testing, and model evaluation. |
+| **🧭 Synscope**  | Multi-INT OSINT fusion and investigation toolkit.                                      |
+| **🌐 Web-Cross** | Web vulnerability assessment and security testing framework.                           |
+| **🗺️ Nodeline** | Local-first visual workspace for investigations and OSINT workflows.                   |
+| **⚙️ DorkForge** | Query compiler for building and organizing OSINT search queries.                       |
 
 ---
 
-## 🧰 Technical Stack
+## Loop
+
+### `loop.runs-on.dev`
+
+A separate space for experiments, technical writeups, investigations, notes, and things that don't necessarily belong on a portfolio site.
+
+**→ [loop.runs-on.dev](https://loop.runs-on.dev/)**
+
+---
+
+## Currently Exploring
 
 ```text
-Languages
-Python • C • C++ • TypeScript • JavaScript • SQL • Bash
-
-AI / ML
-LLM Security • Prompt Injection • Model Evaluation
-Hugging Face • Ollama • OpenAI API • Vertex AI
-
-Security
-AI Red Teaming • Malware Analysis • Reverse Engineering
-OWASP • Web Security • Threat Intelligence • OSINT
-
-Development
-React • Vite • Tailwind CSS • Flask • Tauri • SQLite
-
-Environment
-Linux • Git • Docker • CLI-first workflows
+AI Security
+LLM Red Teaming
+Prompt Injection & Jailbreaks
+AI Model Evaluation
+Android Malware Analysis
+Reverse Engineering
+OSINT & Threat Intelligence
+Web Security
+C / C++
+Security Tooling
 ```
 
 ---
 
-## 🧪 Research Interests
+## Toolbox
 
-I'm particularly interested in the intersection of **AI security and traditional security research**.
+<p align="center">
 
-Current areas include:
+### Languages
 
-**AI Security**
+<img src="https://skillicons.dev/icons?i=python,c,cpp,typescript,javascript,sql,bash" />
 
-> Prompt injection, jailbreaks, model behavior, adversarial evaluation, AI application security.
+### Development
 
-**Malware Analysis**
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,flask,tauri,sqlite" />
 
-> Android APK analysis, static analysis, reverse engineering, C2 investigation, and threat intelligence.
+### Systems & AI
 
-**OSINT**
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github" />
 
-> Multi-source intelligence fusion, structured investigation, entity resolution, and analyst tooling.
+</p>
 
-**Security Engineering**
+```text
+AI / ML
+OpenAI · Hugging Face · Ollama · Vertex AI
 
-> Building practical open source tools that make security research easier to reproduce and automate.
+Security
+OWASP · AI Red Teaming · Malware Analysis
+Reverse Engineering · Threat Intelligence · OSINT
 
----
-
-## 📌 What I Build
-
-I prefer building tools over producing purely theoretical demonstrations.
-
-That means:
-
-**Research → Tooling → Testing → Documentation**
-
-The goal is to turn interesting security problems into tools and workflows that other researchers can actually use.
+Environment
+Linux · CLI · Git · Docker
+```
 
 ---
 
-> **Understand how systems fail. Build tools that make them harder to break.**
+## A Few Things I Like Working On
 
-📬 **Open to collaboration in AI Security, AI Red Teaming, Malware Analysis, OSINT, and Security Research.**
+```text
+→ breaking down unfamiliar systems
+→ building small tools for very specific problems
+→ malware and APK analysis
+→ experimenting with local AI models
+→ OSINT workflows and investigation tooling
+→ turning repetitive analysis into scripts
+```
+
+---
+
+## Around the Web
+
+<p align="center">
+  <a href="https://deysec.in">deysec.in</a>
+  ·
+  <a href="https://loop.runs-on.dev/">loop.runs-on.dev</a>
+  ·
+  <a href="https://github.com/MacTash">GitHub</a>
+</p>
